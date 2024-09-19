@@ -38,6 +38,7 @@ AWS Management Console
 . Click Create bucket.
 
 . Provide a unique bucket name.
+![Screenshot 2024-09-18 145103](https://github.com/user-attachments/assets/1cabf6aa-d742-46b7-be0d-26806479ee59)
 
 . Choose a region (preferably where you plan to use the bucket).
 
