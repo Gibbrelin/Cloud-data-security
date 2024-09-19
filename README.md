@@ -75,6 +75,7 @@ AWS Management Console
 ![Screenshot 2024-09-19 173652](https://github.com/user-attachments/assets/051feb14-f0e7-4db3-9062-2a2776944706)
 
 . Open the KMS Console.
+![Screenshot 2024-09-19 081134](https://github.com/user-attachments/assets/1e09ba16-edc9-4ae5-9264-493a480a56a9)
 
 . Click Create Key.
 
