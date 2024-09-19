@@ -80,6 +80,7 @@ AWS Management Console
 . Click Create Key.
 
 . Select Symmetric key type and click Next.
+![Screenshot 2024-09-19 081214](https://github.com/user-attachments/assets/232fc64c-b958-4311-b46b-db7b55c8a908)
 
 . Add an alias for the key (e.g., my-cmk).
 
