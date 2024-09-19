@@ -53,6 +53,7 @@ AWS Management Console
 # 2. Uploading an Object to S3 Bucket
 
 AWS Management Console
+![Screenshot 2024-09-19 173652](https://github.com/user-attachments/assets/051feb14-f0e7-4db3-9062-2a2776944706)
 
 . Go to S3 and open your bucket.
 
