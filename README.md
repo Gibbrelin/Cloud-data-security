@@ -83,6 +83,7 @@ AWS Management Console
 ![Screenshot 2024-09-19 081214](https://github.com/user-attachments/assets/232fc64c-b958-4311-b46b-db7b55c8a908)
 
 . Add an alias for the key (e.g., my-cmk).
+![Screenshot 2024-09-19 081308](https://github.com/user-attachments/assets/e0fe8880-becf-41ec-9d1b-373dcb640a6e)
 
 . Configure key administrative permissions.
 
