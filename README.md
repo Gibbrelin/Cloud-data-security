@@ -89,6 +89,7 @@ AWS Management Console
 ![Screenshot 2024-09-19 081345](https://github.com/user-attachments/assets/94278049-2826-47f4-a9f8-de05cca20eb4)
 
 . Define usage permissions for IAM users.
+![Screenshot 2024-09-19 081430](https://github.com/user-attachments/assets/5a364cd5-56c3-47c6-b2fe-b7f9a8e12f43)
 
 . Click Create key.
 
