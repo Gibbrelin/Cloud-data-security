@@ -57,10 +57,12 @@ AWS Management Console
 
 . Go to S3 and open your bucket.
 ![Screenshot 2024-09-18 150414](https://github.com/user-attachments/assets/6a796dee-f649-4ed7-baef-9d6b1c1b2772)
+![Screenshot 2024-09-18 150436](https://github.com/user-attachments/assets/8597c619-e275-4351-ab87-f14ced287f28)
 
 . Click Upload.
 
 . Choose a file to upload.
+
 
 . Configure storage class, permissions, and encryption if needed.
 
