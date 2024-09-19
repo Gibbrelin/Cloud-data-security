@@ -91,7 +91,8 @@ AWS Management Console
 . Define usage permissions for IAM users.
 ![Screenshot 2024-09-19 081430](https://github.com/user-attachments/assets/5a364cd5-56c3-47c6-b2fe-b7f9a8e12f43)
 
-. Click Create key.
+. Review credentials and Click Create key.
+![Screenshot 2024-09-19 081532](https://github.com/user-attachments/assets/feb7edd9-3173-484d-a7fb-4337fb892e88)
 
 # 4. Enabling Key Rotation for KMS Key
 
