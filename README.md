@@ -33,6 +33,7 @@ AWS Management Console
 ![Screenshot 2024-09-19 173652](https://github.com/user-attachments/assets/051feb14-f0e7-4db3-9062-2a2776944706)
 
 . Navigate to S3.
+![Screenshot 2024-09-18 144958](https://github.com/user-attachments/assets/33aa478c-e79d-4b90-89d5-33053406dcd8)
 
 . Click Create bucket.
 
