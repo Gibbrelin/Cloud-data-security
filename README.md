@@ -62,7 +62,7 @@ AWS Management Console
 . Click Upload.
 
 . Choose a file to upload.
-
+![Screenshot 2024-09-18 150503](https://github.com/user-attachments/assets/ebc71f0e-b5ab-462c-9bb6-e907d02dd753)
 
 . Configure storage class, permissions, and encryption if needed.
 
