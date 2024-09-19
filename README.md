@@ -43,6 +43,10 @@ AWS Management Console
 . Choose a region (preferably where you plan to use the bucket).
 
 . Set the configurations for public access, versioning, and encryption (as needed).
+![Screenshot 2024-09-18 145214](https://github.com/user-attachments/assets/9ade9570-5406-40b1-bad7-d9442006fb9e)
+![Screenshot 2024-09-18 145228](https://github.com/user-attachments/assets/81021cff-cf57-463a-92aa-9b64627c3d8b)
+![Screenshot 2024-09-18 145307](https://github.com/user-attachments/assets/63b00937-ac93-432a-a4b7-9a7099991825)
+
 
 . Click Create bucket.
 
