@@ -86,6 +86,7 @@ AWS Management Console
 ![Screenshot 2024-09-19 081308](https://github.com/user-attachments/assets/e0fe8880-becf-41ec-9d1b-373dcb640a6e)
 
 . Configure key administrative permissions.
+![Screenshot 2024-09-19 081345](https://github.com/user-attachments/assets/94278049-2826-47f4-a9f8-de05cca20eb4)
 
 . Define usage permissions for IAM users.
 
