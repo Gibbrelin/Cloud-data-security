@@ -106,14 +106,50 @@ AWS Management Console
 ![Screenshot 2024-09-19 081740](https://github.com/user-attachments/assets/57558cc5-1977-4de5-af73-b15121878118)
 
 . Click on Key Rotation and select Enable key rotation.
+![Screenshot 2024-09-19 081836](https://github.com/user-attachments/assets/b0d43ec4-9457-49c3-a4ae-cf9e9fe8bd08)
 
 # 5. Encrypting and Decrypting Data Using KMS
+Aws kms key can be used on AWS CLI(command line interface) and in ec2 instance (for this illustration i'll be using an ec2 instance (amazon linux)) to demonstrate the encryption and decryption using AWS CMK (customer master key)
 
-Encrypting a File
+1. Encrypting a File
+
+. Install the AWS CLI or SDK
+
+. Ensure that the AWS CLI is installed on your EC2 instance.
+
+. Configure the CLI with the required permissions using an IAM role that has access to KMS.
+
+           aws configure
+
+
+3. Encrypt Data Using AWS KMS with CLI
+You can use the AWS CLI to encrypt a file with a KMS key. Here’s how you can encrypt a file:
+
+bash
+Copy code
+aws kms encrypt \
+  --key-id <KMS-Key-ID-or-ARN> \
+  --plaintext fileb://path_to_your_file \
+  --output text --query CiphertextBlob \
+  | base64 --decode > encrypted_file
+In this command:
+
+Replace <KMS-Key-ID-or-ARN> with the ID or ARN of the KMS key.
+Replace path_to_your_file with the path to the file you want to encrypt.
+4. Decrypt Data Using AWS KMS with CLI
+To decrypt the file, use the following command:
+
+bash
+Copy code
+aws kms decrypt \
+  --ciphertext-blob fileb://encrypted_file \
+  --output text --query Plaintext \
+  | base64 --decode > decrypted_file
+This will decrypt the file and store the plain text in decrypted_file.
 
 AWS CLI
 
-aws kms encrypt --key-id <key-id> --plaintext fileb://myfile.txt --output text --query CiphertextBlob | base64 --decode > myfile.enc
+      (aws kms encrypt --key-id <key-id> --plaintext fileb://myfile.txt --output text --query CiphertextBlob | base64 --decode > myfile.enc)
 
 Decrypting a File
 
