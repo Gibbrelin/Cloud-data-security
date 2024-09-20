@@ -121,21 +121,19 @@ Aws kms key can be used on AWS CLI(command line interface) and in ec2 instance (
 
            aws configure
 
+![Screenshot 2024-09-19 100952](https://github.com/user-attachments/assets/990b3e97-b48d-4f1c-8573-4c51b58c85a1)
 
-3. Encrypt Data Using AWS KMS with CLI
+. Encrypt Data Using AWS KMS with CLI
 You can use the AWS CLI to encrypt a file with a KMS key. Here’s how you can encrypt a file:
 
-bash
-Copy code
-aws kms encrypt \
-  --key-id <KMS-Key-ID-or-ARN> \
-  --plaintext fileb://path_to_your_file \
-  --output text --query CiphertextBlob \
-  | base64 --decode > encrypted_file
+    (aws kms encrypt --key-id <key-id> --plaintext fileb://myfile.txt --output text --query CiphertextBlob | base64 --decode > myfile.enc)
+
+
 In this command:
 
 Replace <KMS-Key-ID-or-ARN> with the ID or ARN of the KMS key.
 Replace path_to_your_file with the path to the file you want to encrypt.
+
 4. Decrypt Data Using AWS KMS with CLI
 To decrypt the file, use the following command:
 
@@ -149,7 +147,6 @@ This will decrypt the file and store the plain text in decrypted_file.
 
 AWS CLI
 
-      (aws kms encrypt --key-id <key-id> --plaintext fileb://myfile.txt --output text --query CiphertextBlob | base64 --decode > myfile.enc)
 
 Decrypting a File
 
