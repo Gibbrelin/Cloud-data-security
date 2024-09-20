@@ -100,6 +100,7 @@ AWS Management Console
 ![Screenshot 2024-09-19 173652](https://github.com/user-attachments/assets/051feb14-f0e7-4db3-9062-2a2776944706)
 
 . Go to KMS Console.
+![Screenshot 2024-09-19 081704](https://github.com/user-attachments/assets/c9fadd90-a5ba-4370-9c8d-88079629e032)
 
 . Select your key.
 
