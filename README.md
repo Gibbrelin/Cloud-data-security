@@ -236,6 +236,7 @@ AWS Management Console
 
 . Paste the policy JSON and click Save.
 
+![Screenshot 2024-09-19 113825](https://github.com/user-attachments/assets/a35ba272-68e6-4a91-8e53-c5a59f41059a)
 
 # Conclusion
 You have successfully set up an S3 bucket, uploaded objects, created a KMS key with encryption capabilities, created and attached IAM policies, and applied IP restrictions to your S3 bucket.
