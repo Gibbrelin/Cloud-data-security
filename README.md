@@ -170,6 +170,8 @@ AWS Management Console
 
 . Choose your preffered policy editor (Visuals or json)
 
+![Screenshot 2024-09-19 105634](https://github.com/user-attachments/assets/fd2a6912-3206-4603-b1d8-7af80665da86)
+
 . Add preffered policy
 
 . Click Review Policy.
