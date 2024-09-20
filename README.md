@@ -211,6 +211,7 @@ AWS Management Console
 
 . Click Add Permissions.
 
+![Screenshot 2024-09-19 110202](https://github.com/user-attachments/assets/d1421652-26fd-4b45-aa1d-1b52daf09349)
 
 # 7. Creating a Bucket Policy for IP Restrictions
 
