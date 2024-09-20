@@ -213,6 +213,11 @@ AWS Management Console
 
 ![Screenshot 2024-09-19 110202](https://github.com/user-attachments/assets/d1421652-26fd-4b45-aa1d-1b52daf09349)
 
+.  Testing the policy
+ I logged in into the user account that i have given the policy i created to (The policy has only bucket and object listing permissions) and i tried to create a bucket in the users account but the access was denied 
+
+ 
+
 # 7. Creating a Bucket Policy for IP Restrictions
 
 AWS Management Console
