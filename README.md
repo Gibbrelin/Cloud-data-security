@@ -207,9 +207,10 @@ AWS Management Console
 
 . Select the policy you created and click Next: Review.
 
-
+![Screenshot 2024-09-19 110150](https://github.com/user-attachments/assets/b1510cc1-520c-4fdb-8956-f6d0cb806de4)
 
 . Click Add Permissions.
+
 
 # 7. Creating a Bucket Policy for IP Restrictions
 
