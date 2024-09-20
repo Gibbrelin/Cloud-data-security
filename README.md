@@ -215,34 +215,6 @@ AWS Management Console
 
 # 7. Creating a Bucket Policy for IP Restrictions
 
-. Example S3 Bucket Policy for IP Restriction
-
-. This policy denies access to the S3 bucket from any IP address other than 1.2.3.4.
-
-json
-
-           ({
-   "Version": "2012-10-17",
-  "Statement": [
-    {
-      "Effect": "Deny",
-      "Principal": "*",
-      "Action": "s3:*",
-      "Resource": [
-        "arn:aws:s3:::my-bucket-name",
-        "arn:aws:s3:::my-bucket-name/*"
-      ],
-      "Condition": {
-        "NotIpAddress": {
-          "aws:SourceIp": "1.2.3.4"
-        }
-      }
-    }
-  ]
-})
-
-**Applying the Bucket Policy**
-
 AWS Management Console
 
 . Navigate to S3 and select your bucket.
