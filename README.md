@@ -166,7 +166,7 @@ AWS Management Console
 
 . Click Create Policy.
 
-
+![Screenshot 2024-09-19 105544](https://github.com/user-attachments/assets/c1983c93-5b1d-46ba-ae6d-9ce60a8d74b8)
 
 . Choose your preffered policy editor (Visuals or json)
 
