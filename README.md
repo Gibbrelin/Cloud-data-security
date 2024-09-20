@@ -157,8 +157,10 @@ This will decrypt the file and store the plain text in decrypted_file.
 **Creating an IAM Policy**
 
 AWS Management Console
+![Screenshot 2024-09-19 173652](https://github.com/user-attachments/assets/051feb14-f0e7-4db3-9062-2a2776944706)
 
-. Go to IAM and select Policies.
+. Go to IAM and select Policies in the left hand side bar.
+
 
 . Click Create Policy.
 
