@@ -199,7 +199,11 @@ AWS Management Console
 
 . Go to the Permissions tab and click Add Permissions.
 
+![Screenshot 2024-09-19 110108](https://github.com/user-attachments/assets/e45f4c1a-24e6-4a8c-b69e-630b9e8557ac)
+
 . Choose Attach existing policies directly.
+
+
 
 . Select the policy you created and click Next: Review.
 
