@@ -224,6 +224,8 @@ AWS Management Console
 
 . Navigate to S3 and select your bucket.
 
+![Screenshot 2024-09-19 111103](https://github.com/user-attachments/assets/42c2ab89-ed1d-46b8-b9c7-5db8fb6c8667)
+
 . Go to the Permissions tab.
 
 . Scroll to Bucket Policy and click Edit.
