@@ -180,6 +180,8 @@ AWS Management Console
 
 . Give the policy a name and description.
 
+![Screenshot 2024-09-19 105900](https://github.com/user-attachments/assets/86c574f3-8148-4717-a4d3-ed1739a1241b)
+
 . Click Create Policy.
 
 
