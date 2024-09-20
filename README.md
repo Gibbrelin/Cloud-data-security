@@ -217,12 +217,12 @@ AWS Management Console
 
 . Example S3 Bucket Policy for IP Restriction
 
-. This policy denies access to the S3 bucket from any IP address other than 203.0.113.0/24.
+. This policy denies access to the S3 bucket from any IP address other than 1.2.3.4.
 
 json
-Copy code
-{
-  "Version": "2012-10-17",
+
+           ({
+   "Version": "2012-10-17",
   "Statement": [
     {
       "Effect": "Deny",
@@ -234,12 +234,12 @@ Copy code
       ],
       "Condition": {
         "NotIpAddress": {
-          "aws:SourceIp": "203.0.113.0/24"
+          "aws:SourceIp": "1.2.3.4"
         }
       }
     }
   ]
-}
+})
 
 **Applying the Bucket Policy**
 
