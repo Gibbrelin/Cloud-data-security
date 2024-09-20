@@ -3,19 +3,19 @@
 
 This guide will walk you through the process of:
 
-. Creating an S3 bucket.
+1. Creating an S3 bucket.
 
-. Uploading an object to an S3 bucket.
+2. Uploading an object to an S3 bucket.
 
-. Creating a Customer Master Key (CMK) in AWS KMS.
+3. Creating a Customer Master Key (CMK) in AWS KMS.
 
-. Enabling Key Rotation for KMS keys.
+4. Enabling Key Rotation for KMS keys.
 
-. Encrypting and decrypting data using KMS.
+5. Encrypting and decrypting data using KMS.
 
-. Creating an IAM policy and attaching it to a user.
+6. Creating an IAM policy and attaching it to a user.
 
-. Creating a bucket policy with IP restrictions.
+7. Creating a bucket policy with IP restrictions.
 
 # Prerequisites
 
