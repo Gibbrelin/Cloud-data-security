@@ -142,16 +142,14 @@ To decrypt the file, use the following command:
 
         aws kms decrypt --ciphertext-blob fileb://myfile.enc --output text --query Plaintext | base64 --decode > myfile-decrypted.txt
 
+![Screenshot 2024-09-19 103552](https://github.com/user-attachments/assets/b4f44685-1b9f-4bec-93a5-5a7f2c7d908f)
+
+In this command:
+
+Replace <KMS-Key-ID-or-ARN> with the ID or ARN of the KMS key.
+Replace path_to_your_file with the path to the file you want to decrypt.
 
 This will decrypt the file and store the plain text in decrypted_file.
-
-AWS CLI
-
-
-Decrypting a File
-
-AWS CLI
-
 
 
 # 6. Creating an IAM Policy and Attaching It to a User
