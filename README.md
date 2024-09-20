@@ -97,6 +97,7 @@ AWS Management Console
 # 4. Enabling Key Rotation for KMS Key
 
 AWS Management Console
+![Screenshot 2024-09-19 173652](https://github.com/user-attachments/assets/051feb14-f0e7-4db3-9062-2a2776944706)
 
 . Go to KMS Console.
 
