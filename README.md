@@ -228,6 +228,8 @@ AWS Management Console
 
 . Go to the Permissions tab.
 
+![Screenshot 2024-09-19 113954](https://github.com/user-attachments/assets/57044ad5-3e19-499d-a03a-8ef65bddd99c)
+
 . Scroll to Bucket Policy and click Edit.
 
 . Paste the policy JSON and click Save.
