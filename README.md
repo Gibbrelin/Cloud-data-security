@@ -174,6 +174,8 @@ AWS Management Console
 
 . Add preffered policy
 
+![Screenshot 2024-09-19 105651](https://github.com/user-attachments/assets/5aa590c3-9f07-48cf-9869-392fb75e7d97)
+
 . Click Review Policy.
 
 . Give the policy a name and description.
