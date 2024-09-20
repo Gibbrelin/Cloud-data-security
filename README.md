@@ -191,6 +191,8 @@ AWS Management Console
 
 . Go to IAM and select Users.
 
+![Screenshot 2024-09-20 112130](https://github.com/user-attachments/assets/7730e3d6-ec51-47e9-ae8e-58dbead664e0)
+
 . Choose the user.
 
 . Go to the Permissions tab and click Add Permissions.
