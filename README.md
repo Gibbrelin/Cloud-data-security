@@ -103,8 +103,9 @@ AWS Management Console
 ![Screenshot 2024-09-19 081704](https://github.com/user-attachments/assets/c9fadd90-a5ba-4370-9c8d-88079629e032)
 
 . Select your key.
+![Screenshot 2024-09-19 081740](https://github.com/user-attachments/assets/57558cc5-1977-4de5-af73-b15121878118)
 
-. Click Key Actions and select Enable key rotation.
+. Click on Key Rotation and select Enable key rotation.
 
 # 5. Encrypting and Decrypting Data Using KMS
 
